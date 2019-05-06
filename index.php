@@ -12,7 +12,7 @@ if($heure > 7 || $heure < 19)
 }
 
 echo '<a href= "./bordeaux.php>"Bordeaux</a>';
-echo '<a href= "./bparis.php>"Paris</a>';
+echo '<a href= "./paris.php>"Paris</a>';
 
 
 
